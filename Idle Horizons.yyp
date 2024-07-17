@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"Idle Horizons",
   "resources":[
@@ -46,6 +46,7 @@
     {"id":{"name":"rm_battle","path":"rooms/rm_battle/rm_battle.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"rm_main_menu","path":"rooms/rm_main_menu/rm_main_menu.yy",},},
+    {"id":{"name":"scr_init_globals","path":"scripts/scr_init_globals/scr_init_globals.yy",},},
     {"id":{"name":"spr_button_start","path":"sprites/spr_button_start/spr_button_start.yy",},},
     {"id":{"name":"spr_gold_icon","path":"sprites/spr_gold_icon/spr_gold_icon.yy",},},
     {"id":{"name":"spr_player_battle","path":"sprites/spr_player_battle/spr_player_battle.yy",},},

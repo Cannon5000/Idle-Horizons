@@ -1,16 +1,14 @@
 // obj_main: Step Event
 
 switch (global.game_state) {
-    case "playing":
-        // Update game mechanics
-        // Add logic for updating game elements, checking collisions, etc.
+    case "main_menu":
+        // Handle main menu logic
         break;
-
-    case "paused":
-        // Handle paused state logic
+    case "game":
+        // Handle game logic
         break;
-
-    case "game_over":
-        // Handle game over state logic
+    // Add more cases as needed
+    default:
+        // Default case (optional)
         break;
 }
